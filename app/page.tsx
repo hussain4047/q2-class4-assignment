@@ -6,7 +6,7 @@ export default function Home(){
       <p>Welcome To Countries List</p>
       <br />
       <br />
-      <h1> <Link href="/country">Click here for Countries List</Link></h1>
+      <h1> <Link href="./country">Click here for Countries List</Link></h1>
     </div>
   )
 }
